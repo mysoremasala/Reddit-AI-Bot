@@ -1,0 +1,2 @@
+hello=gay
+print(hello)
